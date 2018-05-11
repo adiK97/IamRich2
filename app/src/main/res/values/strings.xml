@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">I am Rich</string>
+
+    <string name="title_activity_splash"></string>
+    <string name="dummy_button"></string>
+    <string name="dummy_content"></string>
+
+    <string name="title_activity_fullscreen"></string>
+</resources>
